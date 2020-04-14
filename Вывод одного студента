@@ -1,0 +1,21 @@
+class Student:
+    def __init__(self, name="", age="", facultet="", kafedra=""):
+        self.name = name
+        self.age = age
+        self.facultet = facultet
+        self.kafedra = kafedra
+        print(" " + name)
+
+    def printDetails(self):
+        print("студент: ", self.name)
+        print("возраст: ", self.age)
+        print("факультет: ", self.facultet)
+        print("кафедра: ", self.kafedra)
+
+    def enroll(self, course):
+        self.courses.append(course)
+
+
+student1 = Student("Ivanov Ivan", "18", "SM", "SM1")
+print("", student1.name)
+student1.printDetails()
