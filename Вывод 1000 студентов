@@ -43,15 +43,16 @@ boys_surname_list = ['Потапов', 'Смирнов', 'Лобачесвски
                      'Будько', 'Вольф', 'Кюри', 'Грин', 'Гличенко', 'Калита', 'Вальдес', 'Лабунец', 'Супруненко',
                      'Полуян', 'Рыбак', 'Ким', 'Маркс']
 
-kafedra_list = ['IY1', 'IY2', 'IY3', 'IY4', 'IY5', 'IY6', 'IY7', 'IY8', 'IY9', 'IY11',
-                'SM1', 'SM2', 'SM3', 'SM4', 'SM5', 'SM6', 'SM7', 'SM8',
-                'MT1', 'MT2', 'MT3', 'MT4', 'MT5', 'MT6',
-                'RL1', 'RL2', 'RL3', 'RL4', 'RL5', 'RL6',
-                'BMT1', 'BMT2', 'BMT3', 'BMT4', 'BMT5',
-                'IBM1', 'IBM2', 'IBM3', 'IBM4', 'IBM5',
-                'E1', 'E2', 'E3', 'E4', 'E5',
-                'FN1', 'FN2', 'FN3', 'FN4', 'FN5',
-                'RK1', 'RK2', 'RK3', 'RK4', 'RK5']
+kafedra_list = ['IY1','IY2','IY3','IY4','IY5','IY6','IY7','IY8','IY9','IY11',
+            'SM1','SM2','SM3','SM4','SM5','SM6','SM7','SM8','SM9','SM10','SM11','SM12','SM13',
+            'MT1','MT2','MT3','MT4','MT5','MT6','MT7', 'MT8','MT9','MT10','MT11','MT12','MT13'
+            'RL1','RL2','RL3','RL4','RL5','RL6',
+            'BMT1','BMT2','BMT4','SGN1','SGN2','SGN3','SGN4','UR',
+            'IBM1','IBM2','IBM','IBM4','IBM5','IBM6','IBM7'
+            'E1','E2','E3','E4','E5','E6','E7','E8','E9','E10'
+            'FN1','FN2','FN3','FN4','FN5','FN7', 'FN11', 'FN12',
+            'RK1','RK2','RK3','RK4','RK5','RK6','RK7','RK8','RK9',
+            'L1','L2','L3','L4']
 
 
 class Student:
